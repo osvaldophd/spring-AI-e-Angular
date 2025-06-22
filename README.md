@@ -1,1 +1,1 @@
-# sprin-AI-e-Angular
+# spring-AI-e-Angular

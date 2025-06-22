@@ -1,0 +1,34 @@
+HELP.md
+apia-ai/target/
+apia-ai/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+apia-ai/.apt_generated
+apia-ai/.classpath
+apia-ai/.factorypath
+apia-ai/.project
+apia-ai/.settings
+apia-ai/.springBeans
+apia-ai/.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/apia-ai/nbproject/private/
+/apia-ai/nbbuild/
+/apia-ai/dist/
+/apia-ai/nbdist/
+/apia-ai/.nb-gradle/
+apia-ai/build/
+!**/apia-ai/src/main/**/build/
+!**/apia-ai/src/test/**/build/
+
+### VS Code ###
+.vscode/
+.DS_Store/
